@@ -1,8 +1,12 @@
-class Person 
+class Person
 
 
-  def talk 
+  def talk
     puts "Hello World"
-  end 
-  
-end 
+  end
+
+  def walk
+    "The Person is walking"
+  end
+
+end
