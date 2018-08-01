@@ -1,2 +1,2 @@
-class PErson 
+class Person 
 end 
